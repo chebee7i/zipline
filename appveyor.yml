@@ -111,3 +111,4 @@ test_script:
 branches:
   only:
     - master
+    - cycle-breaker
